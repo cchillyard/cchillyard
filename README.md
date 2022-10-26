@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcom to my Github profile</h1>
+<h1 align="left">Hi 👋, Welcom to my Github profile</h1>
 <h3>👀 Open to work!</h3>
 <h4 align="center">I am a passionate Backend and Full Stack developer who has over 7 years of development experience. I have solid knowledge and rich experience in programming, software development, project management and team leading. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
 
