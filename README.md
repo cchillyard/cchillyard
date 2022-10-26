@@ -2,12 +2,10 @@
 <h3>👀 Open to work!</h3>
 <h4 align="center">I am a passionate Backend and Full Stack developer who has over 7 years of development experience. I have solid knowledge and rich experience in programming, software development, project management and team leading. Beautiful and attractive frontend build and powerful & fast backend logic are my major concern.</h4>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=cchillyard" alt="Colleen Hillyard" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=cchillyard" alt="Colleen Hillyard" /></p>
 
 <p align="center">
-  
 <a href="https://app.daily.dev/cchillyard"><img src="https://api.daily.dev/devcards/565960ed618e42f4be3dc63a37510a72.png?r=vie" width="400" alt="Colleen Claire Hillyard's Dev Card"/></a>
-  
 </p>
 
 - 💬 Ask me about **Node.js, Python, Golang and React**
