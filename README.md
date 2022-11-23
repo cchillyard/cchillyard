@@ -5,7 +5,7 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=cchillyard" alt="Colleen Hillyard" /></p>
 
 <p align="center">
-<a href="https://app.daily.dev/cchillyard"><img src="https://api.daily.dev/devcards/565960ed618e42f4be3dc63a37510a72.png?r=9uy" width="400" alt="Colleen Claire Hillyard's Dev Card"/></a>
+<a href="https://app.daily.dev/cchillyard"><img src="https://api.daily.dev/devcards/565960ed618e42f4be3dc63a37510a72.png?r=8ns" width="400" alt="Colleen Claire Hillyard's Dev Card"/></a>
 </p>
 
 - 💬 Ask me about **Node.js, Python, Golang and React**
